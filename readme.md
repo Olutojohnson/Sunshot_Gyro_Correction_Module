@@ -1,6 +1,6 @@
-## Sunshot Module
+## Sunshot Gyro Correction Module
 
-This Python script processes a dataset from an Excel file (Gyro_Sunshot.xlsx), which contains sun and gyro observations, and performs azimuth calculations based on the provided data. The output is a new Excel file (Sunshot_Output.xlsx) with calculated azimuth values and comparisons.
+This module can be used to calibrate a gyro compass heading by use of solar observations. This Python script processes a dataset from an Excel file (Gyro_Sunshot.xlsx), which contains sun and gyro observations, and performs azimuth calculations based on the provided data. The output is a new Excel file (Sunshot_Output.xlsx) with calculated azimuth values and comparisons.
 
 ## Features
 
